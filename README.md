@@ -1,6 +1,7 @@
 # TIC-TAC-TOE GAME
 
-!(https://www.shutterstock.com/image-vector/tic-tac-toe-doodle-style-119372425)
+![image](https://user-images.githubusercontent.com/128680209/227755464-480cd275-cfd5-4ed8-b6fd-8fd03cddaf54.png)
+
 
 ## Description
 
@@ -21,4 +22,4 @@ python tic_tac_toe.py
 
 ## Demo
 
-!(file:///home/shubham/Downloads/tictactoe.gif)
+![tictactoe](https://user-images.githubusercontent.com/128680209/227755476-8fd51a2a-df2d-43af-9bb0-f3909121cbfd.gif)
